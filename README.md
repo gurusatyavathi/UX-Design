@@ -5,4 +5,4 @@ npm install
 npm start
 ```
 
-[Edit here](https://diy-pwa.dev/~/gh/gurusatyavathi/UX-Design/blob/main/Coming-soon)
+[Edit here](https://diy-pwa.dev/~/gh/gurusatyavathi/UX-Design/blob/main/coming-soon)
